@@ -31,6 +31,7 @@
 **On deck:**
 - HAL SJSU Advisor LLM Chat
 - Hugging Face Model Train Script - automate the trianing of hugging face models
+- **NBA analytics platform** to deliver objective analysis of the sport (MVP coming soon)
 
 **Current obsession:**  
 Shipping Echo Vault to people who care about privacy. Building something that proves AI tools don't need to send your data to the cloud. Every journal entry, every insight, every memory stays on your machine.
@@ -50,24 +51,6 @@ Shipping Echo Vault to people who care about privacy. Building something that pr
 
 - **GitLab deployment RCA system: fleet** — Multi cluster management tool
   - `🔧 internal` Multi-cluster deployments • Container registry migration
-
----
-
-## 💭 Exploring
-
-<details>
-<summary>Ideas I'm noodling on</summary>
-```
-    ╭───────────────────────────────────╮
-    │  THE BACKLOG                      │
-    ╰───────────────────────────────────╯
-```
-
-- **Air-gapped LLM infrastructure** for enterprises (my day job specialty)
-- **NBA analytics platform** to deliver objective analysis of the sport
-- **Local-first tools** that prioritize privacy over convenience
-
-</details>
 
 ---
 
