@@ -25,6 +25,7 @@
 ```
 
 **[Echo Vault](https://github.com/akumar23/Echo-Vault)** — Getting ready for launch. Privacy-first journaling with local LLM inference, vector search, and intelligent insights. No cloud, no tracking, all processing happens locally and only goes external if you choose. 
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-121212?style=flat-square)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B6B?style=flat-square)  
