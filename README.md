@@ -54,7 +54,7 @@ _No frameworks • Educational • Built with math_
     ╠══════════════════════════════════════════════╣
     ║  LLM hosting • Vector databases              ║
     ║  Model optimization • Local inference        ║
-    ║  Multi-agent systems                         ║
+    ║                                              ║
     ╚══════════════════════════════════════════════╝
     
     ╔══════════════════════════════════════════════╗
@@ -71,17 +71,4 @@ _No frameworks • Educational • Built with math_
     ║  Node.js • Neovim (btw)                      ║
     ╚══════════════════════════════════════════════╝
 ```
-
----
-
-```
-    ┌──────────────────────────────────────┐
-    │  🌐 aryankumar.io                    │
-    │  🎬 letterboxd.com/akumar23          │
-    │  📧 making something cool            │
-    └──────────────────────────────────────┘
-```
-
-[**Portfolio**](https://www.aryankumar.io) • [**Letterboxd**](https://letterboxd.com/akumar23) (when not coding)
-
 ![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
