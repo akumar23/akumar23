@@ -1,4 +1,3 @@
-# Aryan Kumar
 ```
     ██████╗ ██████╗  ██████╗      ██╗███████╗ ██████╗████████╗███████╗
     ██╔══██╗██╔══██╗██╔═══██╗     ██║██╔════╝██╔════╝╚══██╔══╝██╔════╝
@@ -29,7 +28,7 @@ _No frameworks • Educational • Built with math_
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
 
----
+
 
 ## Skill Stack
 ```
