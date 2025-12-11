@@ -1,21 +1,5 @@
 # Aryan Kumar
 ```
-   ╔═══════════════════════════════════════════════════════════╗
-   ║  AI ENGINEER • AIR GAP INFRASTRUCTURE • FULL STACK DEV    ║
-   ╚═══════════════════════════════════════════════════════════╝
-```
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=akumar23&color=blueviolet&style=flat-square)
-![Followers](https://img.shields.io/github/followers/akumar23?style=flat-square&color=blue)
-![Stars](https://img.shields.io/github/stars/akumar23?style=flat-square&color=yellow)
-
-</div>
-
----
-
-```
     ██████╗ ██████╗  ██████╗      ██╗███████╗ ██████╗████████╗███████╗
     ██╔══██╗██╔══██╗██╔═══██╗     ██║██╔════╝██╔════╝╚══██╔══╝██╔════╝
     ██████╔╝██████╔╝██║   ██║     ██║█████╗  ██║        ██║   ███████╗
@@ -47,15 +31,17 @@ _No frameworks • Educational • Built with math_
 
 ---
 
-## Stack
+## Skill Stack
 ```
-    ╔══════════════════════════════════════════════╗
-    ║  AI/ML Infrastructure                        ║
-    ╠══════════════════════════════════════════════╣
-    ║  LLM hosting • Vector databases              ║
-    ║  Model optimization • Local inference        ║
-    ║                                              ║
-    ╚══════════════════════════════════════════════╝
+   ╔══════════════════════════════════════════════╗
+   ║  AI/ML Infrastructure                        ║
+   ╠══════════════════════════════════════════════╣
+   ║  LLM hosting (air-gapped/secure envs)        ║
+   ║  RAG systems & vector search (ChromaDB)      ║
+   ║  Local inference & privacy-first AI          ║
+   ║  Multi-agent orchestration                   ║
+   ║  Neural networks from scratch (NumPy)        ║
+   ╚══════════════════════════════════════════════╝
     
     ╔══════════════════════════════════════════════╗
     ║  DevOps & Infrastructure                     ║
@@ -68,7 +54,7 @@ _No frameworks • Educational • Built with math_
     ║  Full-stack                                  ║
     ╠══════════════════════════════════════════════╣
     ║  TypeScript • Python • React                 ║
-    ║  Node.js • Neovim (btw)                      ║
+    ║  Node.js • fastapi • Neovim (btw)            ║
     ╚══════════════════════════════════════════════╝
 ```
 ![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
