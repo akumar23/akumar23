@@ -1,4 +1,4 @@
-Most of my work lives in private repos. What you'll find here are personal projects I build to explore ideas and solve problems I care about :)
+Most of my work lives in private repos. 
 
     ███████╗██╗  ██╗██╗██╗     ██╗     ███████╗
     ██╔════╝██║ ██╔╝██║██║     ██║     ██╔════╝
@@ -34,3 +34,5 @@ Most of my work lives in private repos. What you'll find here are personal proje
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+Below are personal projects I build to explore ideas and solve problems I care about :)
