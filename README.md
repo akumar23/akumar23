@@ -28,4 +28,4 @@ Most of my work lives in private repos.
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-Below are personal projects I build to explore ideas and solve problems I care about :)
+Below are personal projects I build to explore ideas or solve problems I care about :)
