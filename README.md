@@ -1,5 +1,7 @@
 Most of my work lives in private repos. 
 
+Solve of niche problems
+
 **Infrastructure & DevOps**
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
