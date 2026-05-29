@@ -1,4 +1,4 @@
-Most of my work lives in private repos. 
+jack of all trades (mastering applied ai)
 
 **Infrastructure & DevOps**
 
